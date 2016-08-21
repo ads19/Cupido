@@ -2,9 +2,11 @@
 Projeto de Engenharia de Sofware 2 "Cupido" 
 
 Integrantes:
-Fabio Yudi Maeda Spada - 1840481522006
+Fabio Yudi Maeda Spada - RA: 1840481522006
 
-Luiz Henrique Monteiro Silva de Lima - 1840481522034
+Luiz Henrique Monteiro Silva de Lima - RA: 1840481522034
+
+Maciel Maejima Gallindo -  RA: 1840481522044
 
 A ideia é um aplicativo de relacionamento, porém com um aspecto diferente, onde quem escolhe o seu parceiro não é você e sim um amigo seu ou alguma outra pessoa. O usuário teria a lista de seus amigos e de outros usuários e poderia criar combinações de casais, as duas pessoas selecionadas recebem uma mensagem do aplicativo dizendo que um "cupido" achou um par para ela, e caso os 2 concordem, um chat é aberto.
 O usuario que combinou o casal receberia alguns pontos, depois de um tempo o casal que foi combinado daria um feedback do que aconteceu com eles, se ficaram na amizade, se encontraram, se estão namorando, etc. E dependendo da resposta deles, o usuário que os indicou receberia mais alguns pontos, assim se formaria um ranking com os melhores cupidos.
