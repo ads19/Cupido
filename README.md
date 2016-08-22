@@ -51,8 +51,9 @@ o Ao menos uma atividade de negócio detalhada com um diagrama de atividades ou 
 _________________________________________________________________________________
 o Algumas regras de negócio descritas:
 
-O usuário deverá obrigatoriamente escolher o tipo de perfil(flechado, cupido ou ambos).
-O app estará integrado com o facebook e instagram.
+RN0: O usuário deverá obrigatoriamente escolher o tipo de perfil(flechado, cupido ou ambos).
+
+RN1: O app estará integrado com redes sociais.
 
 
 
