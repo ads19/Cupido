@@ -8,6 +8,10 @@ Luiz Henrique Monteiro Silva de Lima - RA: 1840481522034
 
 Maciel Maejima Gallindo -  RA: 1840481522044
 
+
+Ultimamente os Apps de relacionamento vem crescendo muito, com cada vez mais usuários, existem diversas opções, o problema é que todos possuem o mesmo problema, a superficialidade, ou seja, todos levam somente para o lado da aparência.
+É possível perceber que quase ninguém lê a biografia da outra pessoa
+
 A ideia é um aplicativo de relacionamento, porém com um aspecto diferente, onde quem escolhe o seu parceiro não é você e sim um amigo seu ou alguma outra pessoa. O usuário teria a lista de seus amigos e de outros usuários e poderia criar combinações de casais, as duas pessoas selecionadas recebem uma mensagem do aplicativo dizendo que um "cupido" achou um par para ela, e caso os 2 concordem, um chat é aberto.
 O usuario que combinou o casal receberia alguns pontos, depois de um tempo o casal que foi combinado daria um feedback do que aconteceu com eles, se ficaram na amizade, se encontraram, se estão namorando, etc. E dependendo da resposta deles, o usuário que os indicou receberia mais alguns pontos, assim se formaria um ranking com os melhores cupidos.
 Ainda estamos pensando em alguma recompensa para essas pessoas que bancam os "cupidos" para incentiva-los a continuar fazendo isso. 
@@ -17,16 +21,7 @@ O app será integrado com redes sociais ja existentes.
 
 o	Quem são os trabalhadores de negócio (e o perfil de alguns deles):
 
-
-Cliente: É o dono da ideia, passará as especificações do app
-
-Idade: 40 anos
-_________________________________________________________________________________
-Usuários: Os usuários de certa forma serão trabalhadores de negócio, pois darão feedback.
-
-Faixa etária: 16 a 35 anos
-
-Localização: Pessoas de diversas regiões do Brasil
+Não existe um negócio
 _________________________________________________________________________________
 o	Quem são os atores de negócio (e o perfil de alguns deles):
 
