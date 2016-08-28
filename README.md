@@ -28,7 +28,7 @@ Cupido + Flechado: Um tipo de usuário que terão os benefícios dos outros dois
 _________________________________________________________________________________
 o	Quais são os principais dados descritivos do negócio:
 
-Um foma nova de relacionar as pessoas
+Um forma nova de relacionar as pessoas
 _________________________________________________________________________________
 o	Quais são as principais atividades de negócio:
 
