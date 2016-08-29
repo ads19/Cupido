@@ -8,7 +8,7 @@ Luiz Henrique Monteiro Silva de Lima - RA: 1840481522034
 
 Maciel Maejima Gallindo -  RA: 1840481522044
 
-PROBLEMA:
+DESCRIÇÃO DO PROBLEMA:
 
 Ultimamente os Apps de relacionamento vem crescendo muito, com cada vez mais usuários, existem diversas opções, o problema é que todos possuem o mesmo problema, a superficialidade, ou seja, todos levam somente para o lado da aparência.
 É possível perceber que quase ninguém lê o que a outra pessoa escreve sobre si mesmo, ou então as pessoas nem escrevem. Mas isso não acontece apenas com um aplicativo, e sim com vários, todos são praticamentes iguais, e para fugir um pouco do padrão, foi criada uma possível solução, e claro, sem perder o foco em juntar pessoas.
@@ -24,9 +24,12 @@ A pessoa que aguarda um cupido achar seu par terá o nome de "Flechado" ela pode
 
 
 
-o	Quem são os trabalhadores de negócio (e o perfil de alguns deles):
+o	Envolvidos:
 
-Não existe um negócio
+Usuários(pessoa fisica): O problema gira totalmente em torno deles, pois eles que buscam algum tipo de relacionamento e se deparam com esse tipo de problema.
+
+Grande maioria 16 a 35 anos de idade.
+
 _________________________________________________________________________________
 o	Quem são os atores de negócio (e o perfil de alguns deles):
 
@@ -38,7 +41,7 @@ Cupido + Flechado: Um tipo de usuário que terão os benefícios dos outros dois
 _________________________________________________________________________________
 o	Quais são os principais dados descritivos do negócio:
 
-Uma nova forma de juntar as pessoas
+Trata=se de ajudar usuários a encontrarem alguém de uma forma diferente.
 _________________________________________________________________________________
 o	Quais são as principais atividades de negócio:
 
