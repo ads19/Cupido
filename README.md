@@ -16,7 +16,7 @@ Ultimamente os Apps de relacionamento vem crescendo muito, com cada vez mais usu
 
 Possível solução:
 
-A idéia é um app de relacionamento com um aspecto diferente, um app onde você não escolhe exatamente quem você quer, mas sim uma outra pessoa, que pode ser um amigo ou outro usuário. É dai que vem o nome "O cupido".
+A idéia é um app de relacionamento com um aspecto diferente, um app onde o usuário escolhe exatamente quem ele quer, mas sim uma outra pessoa, que pode ser um amigo ou outro usuário. É dai que vem o nome "O cupido".
 O cupido deverá analisar a descrição de duas pessoas e então juntá-las através do aplicativo, então elas terão a opção de iniciar uma conversa ou seguir em frente.
 A pessoa que aguarda um cupido achar seu par terá o nome de "Flechado" ela poderá editar informações pessoais e ver informações de outros flechados, mas não poderá fazer nada com eles, até um cupido "flechar" os dois.
 
@@ -30,21 +30,15 @@ Usuários(pessoa fisica): O problema gira totalmente em torno deles, pois eles q
 
 Grande maioria 16 a 35 anos de idade.
 
-_________________________________________________________________________________
-o	Quem são os atores de negócio (e o perfil de alguns deles):
 
-Cupido: Um tipo de usuário que unirá flechados de acordo com suas descrições
 
-Flechado: Um tipo de usuário que aguardará cupidos acharem seu par
-
-Cupido + Flechado: Um tipo de usuário que terão os benefícios dos outros dois tipos de usuário
 _________________________________________________________________________________
 o	Quais são os principais dados descritivos do negócio:
 
 Trata=se de ajudar usuários a encontrarem alguém de uma forma diferente.
 _________________________________________________________________________________
 o	Quais são as principais atividades de negócio:
-
+Outros aplicativos de relacionamentos, como: Tinder, Happn, okCupido.
 
 _________________________________________________________________________________
 o Ao menos uma atividade de negócio detalhada com um diagrama de atividades ou equivalente;
