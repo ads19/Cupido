@@ -35,7 +35,7 @@ Grande maioria 16 a 35 anos de idade.
 _________________________________________________________________________________
 o	Quais são os principais dados descritivos do negócio:
 
-Trata=se de ajudar usuários a encontrarem alguém de uma forma diferente.
+Trata-se de ajudar usuários a encontrarem alguém de uma forma diferente.
 _________________________________________________________________________________
 o	Quais são as principais atividades de negócio:
 Outros aplicativos de relacionamentos, como: Tinder, Happn, okCupido.
