@@ -6,7 +6,7 @@ Fabio Yudi Maeda Spada - RA: 1840481522006
 
 Luiz Henrique Monteiro Silva de Lima - RA: 1840481522034
 
-Maciel Maejima Gallindo -  RA: 1840481522044
+
 
 DESCRIÇÃO DO PROBLEMA:
 
